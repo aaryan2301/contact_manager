@@ -26,7 +26,7 @@ const options = {
         },
         servers: [
             {
-                url: "http://localhost:5001",
+                url: "https://contact-manager-or7u.onrender.com",
             },
         ],
     },
